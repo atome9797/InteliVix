@@ -1,0 +1,14 @@
+cafe24
+- ID : intellivix
+-PW : ill201007!
+
+ftp
+- HOST: intellivix.cafe24.com
+- ID: intellivix
+- PW: qwerqwer12!
+
+
+mysql
+ - HOST: intellivix.cafe24.com
+ - USER: intellivix
+ - PW: qwerqwer12!

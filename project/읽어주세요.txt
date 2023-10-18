@@ -1,0 +1,8 @@
+백엔드 빌드시 root 로 아티팩트 빌드 하시면 됩니다.
+out\artifacts\ROOT 경로에 war 파일 생성됩니다.
+
+프론트엔드 빌드 후 빌드 결과물 
+src\main\resources\static 에 덮어씌우시면 됩니다.
+
+반영 방법은 ftp 접속 후
+root\tomcat\webapps에 ROOT.war 덮어씌우면 됩니다.

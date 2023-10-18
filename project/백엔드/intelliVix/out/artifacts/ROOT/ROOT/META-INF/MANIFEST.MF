@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: intelliVix
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: nwh
+Implementation-Vendor-Id: com
+Created-By: IntelliJ IDEA
+Build-Jdk: Oracle OpenJDK version 1.8.0_202
+Main-Class: ${start-class}
+

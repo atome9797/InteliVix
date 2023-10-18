@@ -1,0 +1,2127 @@
+{
+  "procurement_main": [
+    {
+      "no": "24290828",
+      "name": "VIXAI-SYS-C001",
+      "composition": "엣지형영상분석장치(1CH)+촬상부(Bullet Type)",
+      "price": " 3,500,000 "
+    },
+    {
+      "no": "24290829",
+      "name": "VIXAI-SYS-C002",
+      "composition": "엣지형영상분석장치(2CH)+촬상부(Bullet Type)",
+      "price": " 5,000,000 "
+    },
+    {
+      "no": "24290830",
+      "name": "VIXAI-SYS-C003",
+      "composition": "엣지형영상분석장치(3CH)+촬상부(Bullet Type)",
+      "price": " 6,500,000 "
+    },
+    {
+      "no": "24290831",
+      "name": "VIXAI-SYS-C004",
+      "composition": "엣지형영상분석장치(4CH)+촬상부(Bullet Type)",
+      "price": " 8,000,000 "
+    },
+    {
+      "no": "24290832",
+      "name": "VIXAI-SYS-C005",
+      "composition": "엣지형영상분석장치(1CH)+촬상부(Dome Type)",
+      "price": " 3,300,000 "
+    },
+    {
+      "no": "24290833",
+      "name": "VIXAI-SYS-C006",
+      "composition": "엣지형영상분석장치(2CH)+촬상부(Dome Type)",
+      "price": " 4,600,000 "
+    },
+    {
+      "no": "24290834",
+      "name": "VIXAI-SYS-C007",
+      "composition": "엣지형영상분석장치(3CH)+촬상부(Dome Type)",
+      "price": " 5,900,000 "
+    },
+    {
+      "no": "24290835",
+      "name": "VIXAI-SYS-C008",
+      "composition": "엣지형영상분석장치(4CH)+촬상부(Dome Type)",
+      "price": " 7,200,000 "
+    },
+    {
+      "no": "24290836",
+      "name": "VIXAI-SYS-C009",
+      "composition": "엣지형영상분석장치(1CH)+촬상부(PTZ Type)",
+      "price": " 6,500,000 "
+    },
+    {
+      "no": "24290837",
+      "name": "VIXAI-SYS-C010",
+      "composition": "엣지형영상분석장치(2CH)+촬상부(PTZ Type)",
+      "price": " 11,000,000 "
+    },
+    {
+      "no": "24290838",
+      "name": "VIXAI-SYS-C011",
+      "composition": "엣지형영상분석장치(3CH)+촬상부(PTZ Type)",
+      "price": " 16,000,000 "
+    },
+    {
+      "no": "24290839",
+      "name": "VIXAI-SYS-C012",
+      "composition": "엣지형영상분석장치(4CH)+촬상부(PTZ Type)",
+      "price": " 20,000,000 "
+    }
+  ],
+  "procurement_sub": [
+    {
+      "no": "24198677",
+      "product_name": "보안용카메라",
+      "detail_rule": "BULLET, 200만, 3배줌, 1/2\" (60F)",
+      "name": "VIXAI-CB203JD1",
+      "price": " 1,801,800 "
+    },
+    {
+      "no": "24201519",
+      "product_name": "보안용카메라",
+      "detail_rule": "BULLET, 200만, 4배줌, 1/2.8\"",
+      "name": "VIXAI-CB204JD1",
+      "price": " 1,002,375 "
+    },
+    {
+      "no": "24201521",
+      "product_name": "보안용카메라",
+      "detail_rule": "BULLET, 200만, 10배줌, 1/2.8\"",
+      "name": "VIXAI-CB210JD1",
+      "price": " 1,701,700 "
+    },
+    {
+      "no": "24201522",
+      "product_name": "보안용카메라",
+      "detail_rule": "BULLET, 300만, 4배줌, 1/2.8\"",
+      "name": "VIXAI-CB304JD1",
+      "price": " 1,326,325 "
+    },
+    {
+      "no": "24198678",
+      "product_name": "보안용카메라",
+      "detail_rule": "BULLET, 500만, 3배줌, 1/1.8\"",
+      "name": "VIXAI-CB503JD1",
+      "price": " 1,951,950 "
+    },
+    {
+      "no": "24201517",
+      "product_name": "보안용카메라",
+      "detail_rule": "BULLET, 1200만, 3배줌, 1/1.7\"",
+      "name": "VIXAI-CB1203JD1",
+      "price": " 2,352,350 "
+    },
+    {
+      "no": "24198674",
+      "product_name": "보안용카메라",
+      "detail_rule": "BULLET, 200만, 3배줌, 1/1.8\", Global Shutter",
+      "name": "VIXAI-CB203JD3",
+      "price": " 3,953,950 "
+    },
+    {
+      "no": "24201523",
+      "product_name": "보안용카메라",
+      "detail_rule": "BULLET, 300만, 10배줌, 1/2.8\"",
+      "name": "VIXAI-CB310JD1",
+      "price": " 1,776,775 "
+    },
+    {
+      "no": "24208446",
+      "product_name": "보안용카메라",
+      "detail_rule": "BULLET, 200만, 3배줌, 1/1.9\" (30F)",
+      "name": "VIXAI-CB203JD2",
+      "price": " 1,751,750 "
+    },
+    {
+      "no": "24198675",
+      "product_name": "보안용카메라",
+      "detail_rule": "BULLET, 800만(4K), 3배줌, 1/2.5\"",
+      "name": "VIXAI-CB4K03JD1",
+      "price": " 2,152,150 "
+    },
+    {
+      "no": "24201529",
+      "product_name": "보안용카메라",
+      "detail_rule": "DOME, 200만, 3배줌, 1/2\" (60F)",
+      "name": "VIXAI-CD203JD1",
+      "price": " 1,601,600 "
+    },
+    {
+      "no": "24201527",
+      "product_name": "보안용카메라",
+      "detail_rule": "DOME, 200만, 4배줌, 1/2.8\"",
+      "name": "VIXAI-CD204JD1",
+      "price": " 779,625 "
+    },
+    {
+      "no": "24201524",
+      "product_name": "보안용카메라",
+      "detail_rule": "DOME, 500만, 3배줌, 1/1.8\"",
+      "name": "VIXAI-CD503JD1",
+      "price": " 1,651,650 "
+    },
+    {
+      "no": "24201528",
+      "product_name": "보안용카메라",
+      "detail_rule": "DOME, 200만, 3배줌, 1/1.9\" (30F)",
+      "name": "VIXAI-CD203JD2",
+      "price": " 1,551,550 "
+    },
+    {
+      "no": "24201525",
+      "product_name": "보안용카메라",
+      "detail_rule": "DOME, 800만(4K), 3배줌, 1/2.5\"",
+      "name": "VIXAI-CD4K03JD1",
+      "price": " 1,751,750 "
+    },
+    {
+      "no": "24201526",
+      "product_name": "보안용카메라",
+      "detail_rule": "DOME, 1200만, 3배줌, 1/1.7\"",
+      "name": "VIXAI-CD1203JD1",
+      "price": " 2,002,000 "
+    },
+    {
+      "no": "24219818",
+      "product_name": "보안용카메라",
+      "detail_rule": "BULLET, 200만, 3배줌, 1/1.9\"",
+      "name": "VIXAI-CB203JF1",
+      "price": " 1,232,000 "
+    },
+    {
+      "no": "24219819",
+      "product_name": "보안용카메라",
+      "detail_rule": "BULLET, 200만, 10배줌, 1/2.8\"",
+      "name": "VIXAI-CB210JF1",
+      "price": " 1,320,000 "
+    },
+    {
+      "no": "24219820",
+      "product_name": "보안용카메라",
+      "detail_rule": "BULLET, 400만, 4배줌, 1/2.8\"",
+      "name": "VIXAI-CB404JF1",
+      "price": " 1,276,000 "
+    },
+    {
+      "no": "24256051",
+      "product_name": "보안용카메라",
+      "detail_rule": "HOUSING, 200만, 3배줌, 1/1.9\"",
+      "name": "VIXAI-CO203JF1",
+      "price": " 1,689,600 "
+    },
+    {
+      "no": "24256050",
+      "product_name": "보안용카메라",
+      "detail_rule": "HOUSING, 200만, 10배줌, 1/2.8\"",
+      "name": "VIXAI-CO210JF1",
+      "price": " 1,689,600 "
+    },
+    {
+      "no": "24300252",
+      "product_name": "보안용카메라",
+      "detail_rule": "DOME, 200만, 3배줌, 1/1.9\"",
+      "name": "VIXAI-CD203JF1",
+      "price": " 1,144,000 "
+    },
+    {
+      "no": "24302898",
+      "product_name": "보안용카메라",
+      "detail_rule": "DOME, 400만, 4배줌, 1/2.7\"",
+      "name": "VIXAI-CD404JF1",
+      "price": " 1,232,000 "
+    },
+    {
+      "no": "24223034",
+      "product_name": "보안용카메라",
+      "detail_rule": "PTZ, 200만, 30배줌, 1/2.8\"",
+      "name": "VIXAI-CS230JF1",
+      "price": " 3,267,000 "
+    },
+    {
+      "no": "24223035",
+      "product_name": "보안용카메라",
+      "detail_rule": "PTZ, 200만, 30배줌, 1/1.9\"",
+      "name": "VIXAI-CS230JF2",
+      "price": " 3,521,100 "
+    },
+    {
+      "no": "24223036",
+      "product_name": "보안용카메라",
+      "detail_rule": "PTZ, 200만, 36배줌, 1/1.9\"",
+      "name": "VIXAI-CS236JF1",
+      "price": " 3,811,500 "
+    },
+    {
+      "no": "24223038",
+      "product_name": "보안용카메라",
+      "detail_rule": "PTZ, 400만, 36배줌, 1/1.8\"",
+      "name": "VIXAI-CS436JF1",
+      "price": " 4,174,500 "
+    },
+    {
+      "no": "24223037",
+      "product_name": "보안용카메라",
+      "detail_rule": "PTZ, 200만, 36배줌, 1/1.9\" (무소음)",
+      "name": "VIXAI-CS236JF2",
+      "price": " 3,993,000 "
+    },
+    {
+      "no": "24194252",
+      "product_name": "보안용카메라",
+      "detail_rule": "BULLET, 200만, 4배줌, 1/2\"",
+      "name": "VIXAI-CB204JA1",
+      "price": " 1,694,000 "
+    },
+    {
+      "no": "24194254",
+      "product_name": "보안용카메라",
+      "detail_rule": "BULLET, 200만, 4배줌, 1/2.8\"",
+      "name": "VIXAI-CB204JA2",
+      "price": " 1,386,000 "
+    },
+    {
+      "no": "24194253",
+      "product_name": "보안용카메라",
+      "detail_rule": "DOME, 200만, 4배줌, 1/2.8\"",
+      "name": "VIXAI-CD204JA1",
+      "price": " 1,386,000 "
+    },
+    {
+      "no": "24191419",
+      "product_name": "보안용카메라",
+      "detail_rule": "PTZ, 200만, 37배줌, 1/2\"",
+      "name": "VIXAI-CS237JA1",
+      "price": " 3,987,500 "
+    },
+    {
+      "no": "24205395",
+      "product_name": "보안용카메라",
+      "detail_rule": "BULLET, 200만, 4배줌, 1/2\"",
+      "name": "VIXAI-CB204JE1",
+      "price": " 1,465,200 "
+    },
+    {
+      "no": "24205394",
+      "product_name": "보안용카메라",
+      "detail_rule": "BULLET, 200만, 18배줌, 1/2\"",
+      "name": "VIXAI-CB218JE1",
+      "price": " 2,059,200 "
+    },
+    {
+      "no": "24208448",
+      "product_name": "보안용카메라",
+      "detail_rule": "BULLET, 4K, 4배줌, 1/1.8\"",
+      "name": "VIXAI-CB4K04JE1",
+      "price": " 2,178,000 "
+    },
+    {
+      "no": "24208447",
+      "product_name": "보안용카메라",
+      "detail_rule": "BULLET, 4K, 18배줌, 1/1.8\"",
+      "name": "VIXAI-CB4K18JE1",
+      "price": " 2,970,000 "
+    },
+    {
+      "no": "24208451",
+      "product_name": "보안용카메라",
+      "detail_rule": "BULLET, 500만, 4배줌, 1/1.8\"",
+      "name": "VIXAI-CB504JE1",
+      "price": " 1,782,000 "
+    },
+    {
+      "no": "24208450",
+      "product_name": "보안용카메라",
+      "detail_rule": "BULLET, 500만, 18배줌, 1/1.8\"",
+      "name": "VIXAI-CB518JE1",
+      "price": " 2,574,000 "
+    },
+    {
+      "no": "24205397",
+      "product_name": "보안용카메라",
+      "detail_rule": "DOME, 200만, 3배줌, 1/2\"",
+      "name": "VIXAI-CD203JE1",
+      "price": " 1,424,500 "
+    },
+    {
+      "no": "24205396",
+      "product_name": "보안용카메라",
+      "detail_rule": "DOME, 200만, 4배줌, 1/2.8\"",
+      "name": "VIXAI-CD204JE1",
+      "price": " 1,232,000 "
+    },
+    {
+      "no": "24208449",
+      "product_name": "보안용카메라",
+      "detail_rule": "DOME, 500만, 3배줌, 1/1.8\"",
+      "name": "VIXAI-CD503JE1",
+      "price": " 1,617,000 "
+    },
+    {
+      "no": "24297029",
+      "product_name": "보안용카메라",
+      "detail_rule": "PTZ, 200만, 30배줌, 1/2\"",
+      "name": "VIXAI-CS230JE1",
+      "price": " 4,290,000 "
+    },
+    {
+      "no": "24297030",
+      "product_name": "보안용카메라",
+      "detail_rule": "PTZ, 200만, 36배줌, 1/2\"",
+      "name": "VIXAI-CS236JE1",
+      "price": " 4,455,000 "
+    },
+    {
+      "no": "24236141",
+      "product_name": "카메라브래킷",
+      "detail_rule": "벽부형 브래킷",
+      "name": "VIXAI-BBWJ01",
+      "price": " 770,000 "
+    },
+    {
+      "no": "24235046",
+      "product_name": "카메라브래킷",
+      "detail_rule": "벽부형 브래킷",
+      "name": "VIXAI-BSWJ01",
+      "price": " 500,000 "
+    },
+    {
+      "no": "24236142",
+      "product_name": "카메라브래킷",
+      "detail_rule": "실내용 벽부형 브래킷",
+      "name": "VIXAI-BBWJ02",
+      "price": " 137,500 "
+    },
+    {
+      "no": "24236143",
+      "product_name": "카메라브래킷",
+      "detail_rule": "PTZ 카메라 벽부형 브래킷",
+      "name": "VIXAI-BSPJ03",
+      "price": " 220,000 "
+    },
+    {
+      "no": "24236144",
+      "product_name": "카메라브래킷",
+      "detail_rule": "PTZ 카메라 걸이형 브래킷",
+      "name": "VIXAI-BSCJ02",
+      "price": " 137,500 "
+    },
+    {
+      "no": "24236139",
+      "product_name": "카메라브래킷",
+      "detail_rule": "PTZ 카메라 코너형 브래킷",
+      "name": "VIXAI-BSNJ01",
+      "price": " 175,000 "
+    },
+    {
+      "no": "24236146",
+      "product_name": "카메라브래킷",
+      "detail_rule": "PTZ / DOME 카메라 천장형 브래킷",
+      "name": "VIXAI-BDCJ01",
+      "price": " 125,000 "
+    },
+    {
+      "no": "24236151",
+      "product_name": "카메라브래킷",
+      "detail_rule": "실내용 벽부형 DOME 카메라 브라켓",
+      "name": "VIXAI-BDWJ01",
+      "price": " 82,500 "
+    },
+    {
+      "no": "24236152",
+      "product_name": "카메라브래킷",
+      "detail_rule": "PTZ / DOME 카메라 폴형 브래킷",
+      "name": "VIXAI-BSPJ05",
+      "price": " 165,000 "
+    },
+    {
+      "no": "\t24297031",
+      "product_name": "카메라회전대",
+      "detail_rule": "팬틸트 (x36)",
+      "name": "SNP-5020",
+      "price": " 7,562,500 "
+    },
+    {
+      "no": "24297033",
+      "product_name": "카메라회전대",
+      "detail_rule": "팬틸트 (x44)",
+      "name": "SNP-5130",
+      "price": " 9,487,500 "
+    },
+    {
+      "no": "24297035",
+      "product_name": "카메라회전대",
+      "detail_rule": "팬틸트 (x36, Laser 1km)",
+      "name": "\tSNP-70210L",
+      "price": " 11,962,500 "
+    },
+    {
+      "no": "24297034",
+      "product_name": "카메라회전대",
+      "detail_rule": "팬틸트 (x44, Laser 1km)",
+      "name": "SNP-70310L",
+      "price": " 12,925,000 "
+    },
+    {
+      "no": "24298228",
+      "product_name": "카메라회전대",
+      "detail_rule": "팬틸트 (x36, Single Type)",
+      "name": "SNS-30200N",
+      "price": " 5,637,500 "
+    },
+    {
+      "no": "24298229",
+      "product_name": "카메라회전대",
+      "detail_rule": "팬틸트 (x36, Twin Type)",
+      "name": "SNS-30202R",
+      "price": " 6,737,500 "
+    },
+    {
+      "no": "24298230",
+      "product_name": "카메라회전대",
+      "detail_rule": "팬틸트 (x36, Laser 1km, Twin Type)",
+      "name": "SNS-30208L",
+      "price": " 7,287,500 "
+    },
+    {
+      "no": "\t24297032",
+      "product_name": "카메라회전대",
+      "detail_rule": "팬틸트 (x44, Twin Type)",
+      "name": "\tSNP-60307T",
+      "price": " 12,100,000 "
+    },
+    {
+      "no": "24297036",
+      "product_name": "카메라회전대",
+      "detail_rule": "팬틸트 (x44, Laser 1km)",
+      "name": "SNP-80315CL",
+      "price": " 17,325,000 "
+    },
+    {
+      "no": "\t24226391",
+      "product_name": "카메라회전대",
+      "detail_rule": "팬틸트 (Preset 미탑재)",
+      "name": "SNT-1300",
+      "price": " 852,500 "
+    },
+    {
+      "no": "23580032",
+      "product_name": "카메라회전대",
+      "detail_rule": "팬틸트 (Preset 탑재)",
+      "name": "SNT-1300P",
+      "price": " 935,000 "
+    },
+    {
+      "no": "22178606",
+      "product_name": "카메라컨트롤러",
+      "detail_rule": "PTZ 제어",
+      "name": "SPC-2000",
+      "price": " 1,651,000 "
+    },
+    {
+      "no": "24301991",
+      "product_name": "컴퓨터서버",
+      "detail_rule": "i7-10700, 8G, Tower Type",
+      "name": "VIXAI-SC71C0GJG",
+      "price": " 4,862,000 "
+    },
+    {
+      "no": "24301990",
+      "product_name": "컴퓨터서버",
+      "detail_rule": "I9-10900, 8G, Tower Type",
+      "name": "VIXAI-SC91C0GJG",
+      "price": " 5,434,000 "
+    },
+    {
+      "no": "24260384",
+      "product_name": "컴퓨터서버",
+      "detail_rule": "Intel XEON Silver 4214R x 1, 32GB, 2U",
+      "name": "VIXAI-S2S1C0GJG",
+      "price": " 10,010,000 "
+    },
+    {
+      "no": "24260383",
+      "product_name": "컴퓨터서버",
+      "detail_rule": "Intel XEON Gold 6226R x 1, 32GB, 2U",
+      "name": "VIXAI-S2G1C0GJG",
+      "price": " 11,726,000 "
+    },
+    {
+      "no": "24260389",
+      "product_name": "컴퓨터서버",
+      "detail_rule": "Intel XEON Silver 4214R x 2, 32GB, 2U",
+      "name": "VIXAI-S2S2C0GJG",
+      "price": " 17,131,400 "
+    },
+    {
+      "no": "24260386",
+      "product_name": "컴퓨터서버",
+      "detail_rule": "Intel XEON Gold 6226R x 2, 32GB, 2U",
+      "name": "VIXAI-S2G2C0GJG",
+      "price": " 20,449,000 "
+    },
+    {
+      "no": "24260379",
+      "product_name": "컴퓨터서버",
+      "detail_rule": "Intel XEON Silver 4214R x 2, 32GB, 4U",
+      "name": "VIXAI-S4S2C0GJG",
+      "price": " 18,161,000 "
+    },
+    {
+      "no": "24260376",
+      "product_name": "컴퓨터서버",
+      "detail_rule": "Intel XEON Gold 6226R x 2, 32GB, 4U",
+      "name": "VIXAI-S4G2C0GJG",
+      "price": " 21,450,000 "
+    },
+    {
+      "no": "24260372",
+      "product_name": "컴퓨터서버",
+      "detail_rule": "Intel XEON Silver 4214R x 2, 32GB, 2U",
+      "name": "VIXAI-S2S2C0GJK",
+      "price": " 17,789,200 "
+    },
+    {
+      "no": "24260373",
+      "product_name": "컴퓨터서버",
+      "detail_rule": "Intel XEON Gold 6226R x 2, 32GB, 2U",
+      "name": "VIXAI-S2G2C0GJK",
+      "price": " 20,077,200 "
+    },
+    {
+      "no": "24242602",
+      "product_name": "컴퓨터서버",
+      "detail_rule": "i7-10700, 16G, Rack Type",
+      "name": "VIXAI-SC71C0GJK",
+      "price": " 4,461,600 "
+    },
+    {
+      "no": "24242603",
+      "product_name": "컴퓨터서버",
+      "detail_rule": "I9-10900, 16G, Rack Type",
+      "name": "VIXAI-SC91C0GJK",
+      "price": " 5,148,000 "
+    },
+    {
+      "no": "24113062",
+      "product_name": "레이드컨트롤러",
+      "detail_rule": "PCIe 3.0",
+      "name": "PRAID EP420i",
+      "price": " 2,250,000 "
+    },
+    {
+      "no": "\t24177753",
+      "product_name": "\t그래픽또는비디오가속카드",
+      "detail_rule": "84 RT코어, 10752 CUDA코어, 336 Tensor코어",
+      "name": "\tNVIDIA RTX A6000",
+      "price": " 16,500,000 "
+    },
+    {
+      "no": "24349953",
+      "product_name": "\t그래픽또는비디오가속카드",
+      "detail_rule": "64 RT코어, 8192 CUDA코어, 256 Tensor코어",
+      "name": "\tNVIDIA RTX A5000",
+      "price": " 8,250,000 "
+    },
+    {
+      "no": "\t24349954",
+      "product_name": "그래픽또는비디오가속카드",
+      "detail_rule": "48 RT코어, 6144 CUDA코어, 192 Tensor코어",
+      "name": "NVIDIA RTX A4000",
+      "price": " 3,850,000 "
+    },
+    {
+      "no": "\t24298011",
+      "product_name": "그래픽또는비디오가속카드",
+      "detail_rule": "\tRTX 3090 D6X, 24GB",
+      "name": "\tRTX 3090 D6X, 24GB",
+      "price": " 10,450,000 "
+    },
+    {
+      "no": "\t24026675",
+      "product_name": "그래픽또는비디오가속카드",
+      "detail_rule": "\tRTX 3080 D6X, 10GB",
+      "name": "\tRTX 3080 D6X, 10GB",
+      "price": " 6,050,000 "
+    },
+    {
+      "no": "\t24090605",
+      "product_name": "그래픽또는비디오가속카드",
+      "detail_rule": "\t3070 D6, 8GB",
+      "name": "\t3070 D6, 8GB",
+      "price": " 3,575,000 "
+    },
+    {
+      "no": "\t24160911",
+      "product_name": "그래픽또는비디오가속카드",
+      "detail_rule": "\tRTX 3060 D6, 12GB",
+      "name": "\tRTX 3060 D6, 12GB",
+      "price": " 2,612,500 "
+    },
+    {
+      "no": "\t24138344",
+      "product_name": "기억유닛",
+      "detail_rule": "32GB",
+      "name": "\tDDR4, 32GB, PC4-25600 이상",
+      "price": " 577,500 "
+    },
+    {
+      "no": "\t24317941",
+      "product_name": "기억유닛",
+      "detail_rule": "32GB",
+      "name": "\tDDR4, 32GB, PC4-25600이상",
+      "price": " 577,500 "
+    },
+    {
+      "no": "\t22915712",
+      "product_name": "기억유닛",
+      "detail_rule": "16GB",
+      "name": "\t16GB RDIMM",
+      "price": " 419,000 "
+    },
+    {
+      "no": "24317940",
+      "product_name": "기억유닛",
+      "detail_rule": "16GB",
+      "name": "DDR4, 16GB, PC4-25600이상",
+      "price": " 302,500 "
+    },
+    {
+      "no": "\t24034446",
+      "product_name": "기억유닛",
+      "detail_rule": "8GB",
+      "name": "\tDDR4, 8GB, PC4-25600이상",
+      "price": " 220,000 "
+    },
+    {
+      "no": "\t24317939",
+      "product_name": "기억유닛",
+      "detail_rule": "8GB",
+      "name": "\tDDR4, 8GB, PC4-25600이상",
+      "price": " 220,000 "
+    },
+    {
+      "no": "24244119",
+      "product_name": "디스크어레이",
+      "detail_rule": "12BAY, HEADER",
+      "name": "VIXAI-D12BHJA1",
+      "price": " 22,000,000 "
+    },
+    {
+      "no": "24244120",
+      "product_name": "디스크어레이",
+      "detail_rule": "12BAY, TAIL",
+      "name": "VIXAI-D12BTJA1",
+      "price": " 18,590,000 "
+    },
+    {
+      "no": "23666039",
+      "product_name": "디스크어레이",
+      "detail_rule": "NAS, 8BAY, MAIN",
+      "name": "EN-2806",
+      "price": " 16,052,000 "
+    },
+    {
+      "no": "23666049",
+      "product_name": "디스크어레이",
+      "detail_rule": "NAS, 8BAY, TAIL",
+      "name": "EP-2126J",
+      "price": " 8,008,000 "
+    },
+    {
+      "no": "23666011",
+      "product_name": "디스크어레이",
+      "detail_rule": "NAS, 16BAY, MAIN",
+      "name": "EN-3166",
+      "price": " 18,054,000 "
+    },
+    {
+      "no": "23666050",
+      "product_name": "디스크어레이",
+      "detail_rule": "NAS, 16BAY, TAIL",
+      "name": "EP-3166J",
+      "price": " 9,047,000 "
+    },
+    {
+      "no": "23578101",
+      "product_name": "디스크어레이",
+      "detail_rule": "12Bay",
+      "name": "US/DBL(DW-F800-DBLC)",
+      "price": " 8,002,000 "
+    },
+    {
+      "no": "23578103",
+      "product_name": "디스크어레이",
+      "detail_rule": "60Bay",
+      "name": "US/DB60(DW-F800-DB60C)",
+      "price": " 15,003,000 "
+    },
+    {
+      "no": "23576967",
+      "product_name": "디스크어레이",
+      "detail_rule": "12Bay",
+      "name": "US/VSP G350",
+      "price": " 19,398,000 "
+    },
+    {
+      "no": "23839094",
+      "product_name": "디지털비디오레코더",
+      "detail_rule": "4CH, 8GB, 1U, 2BAY",
+      "name": "EM-04B2",
+      "price": " 2,046,000 "
+    },
+    {
+      "no": "23839093",
+      "product_name": "디지털비디오레코더",
+      "detail_rule": "9CH, 8GB, 1U, 2BAY",
+      "name": "EM-09B2",
+      "price": " 2,156,000 "
+    },
+    {
+      "no": "23839092",
+      "product_name": "디지털비디오레코더",
+      "detail_rule": "16CH, 8GB, 1U, 2BAY",
+      "name": "EM-16B2",
+      "price": " 2,882,000 "
+    },
+    {
+      "no": "23666143",
+      "product_name": "디지털비디오레코더",
+      "detail_rule": "16CH, 4TB, 2U, 8BAY",
+      "name": "EM-16B8",
+      "price": " 4,745,000 "
+    },
+    {
+      "no": "23666144",
+      "product_name": "디지털비디오레코더",
+      "detail_rule": "25CH, 4TB, 2U, 8BAY",
+      "name": "EM-25B8",
+      "price": " 5,455,000 "
+    },
+    {
+      "no": "23666145",
+      "product_name": "디지털비디오레코더",
+      "detail_rule": "36CH, 4TB, 2U, 8BAY",
+      "name": "EM-36B8",
+      "price": " 6,742,000 "
+    },
+    {
+      "no": "23666146",
+      "product_name": "디지털비디오레코더",
+      "detail_rule": "49CH, 4TB, 2U, 8BAY",
+      "name": "EM-49B8F",
+      "price": " 9,142,000 "
+    },
+    {
+      "no": "23666147",
+      "product_name": "디지털비디오레코더",
+      "detail_rule": "64CH, 4TB, 2U, 8BAY",
+      "name": "EM-64B8F",
+      "price": " 9,995,000 "
+    },
+    {
+      "no": "23666149",
+      "product_name": "디지털비디오레코더",
+      "detail_rule": "100CH, 4TB, 2U, 8BAY",
+      "name": "EM-100B8H",
+      "price": " 11,796,000 "
+    },
+    {
+      "no": "23666166",
+      "product_name": "디지털비디오레코더",
+      "detail_rule": "128CH, 4TB, 4U, 16BAY",
+      "name": "EM-128B16H",
+      "price": " 16,786,000 "
+    },
+    {
+      "no": "23674722",
+      "product_name": "디지털비디오레코더",
+      "detail_rule": "CMS-Station H-8, 32GB",
+      "name": "CMS-Station H-8",
+      "price": " 2,480,000 "
+    },
+    {
+      "no": "23674721",
+      "product_name": "디지털비디오레코더",
+      "detail_rule": "CMS-Station H-16, 32GB",
+      "name": "CMS-Station H-16",
+      "price": " 2,574,000 "
+    },
+    {
+      "no": "23671986",
+      "product_name": "디지털비디오레코더",
+      "detail_rule": "4CH, 1U, Monitor Display",
+      "name": "EM-NDS-04",
+      "price": " 8,228,000 "
+    },
+    {
+      "no": "24247254",
+      "product_name": "디지털비디오레코더",
+      "detail_rule": "16CH, 1U, 4Bay",
+      "name": "VIXAI-N16C04BJ",
+      "price": " 7,340,000 "
+    },
+    {
+      "no": "24241216",
+      "product_name": "디지털비디오레코더",
+      "detail_rule": "32CH, 2U, 8Bay",
+      "name": "VIXAI-N32C08BJ",
+      "price": " 8,074,000 "
+    },
+    {
+      "no": "23515586",
+      "product_name": "하드디스크드라이브",
+      "detail_rule": "8TB",
+      "name": "\tHUS728T8TALE6L4",
+      "price": " 964,000 "
+    },
+    {
+      "no": "24336478",
+      "product_name": "\t하드디스크드라이브",
+      "detail_rule": "8TB",
+      "name": "MG08ADA800E",
+      "price": " 800,250 "
+    },
+    {
+      "no": "24300638",
+      "product_name": "하드디스크드라이브",
+      "detail_rule": "8TB",
+      "name": "ST8000NM000A",
+      "price": " 778,250 "
+    },
+    {
+      "no": "23425065",
+      "product_name": "하드디스크드라이브",
+      "detail_rule": "8TB",
+      "name": "ST8000VX0022",
+      "price": " 902,400 "
+    },
+    {
+      "no": "24336477",
+      "product_name": "하드디스크드라이브",
+      "detail_rule": "6TB",
+      "name": "\tMG08ADA600E",
+      "price": " 599,500 "
+    },
+    {
+      "no": "23809898",
+      "product_name": "하드디스크드라이브",
+      "detail_rule": "6TB",
+      "name": "\tS2H-H6R0SS",
+      "price": " 3,289,000 "
+    },
+    {
+      "no": "23515584",
+      "product_name": "하드디스크드라이브",
+      "detail_rule": "6TB",
+      "name": "HUS726T6TAL5204",
+      "price": " 999,700 "
+    },
+    {
+      "no": "23515585",
+      "product_name": "하드디스크드라이브",
+      "detail_rule": "6TB",
+      "name": "HUS726T6TALE6L4",
+      "price": " 746,000 "
+    },
+    {
+      "no": "23411000",
+      "product_name": "하드디스크드라이브",
+      "detail_rule": "6TB",
+      "name": "MG04ACA600",
+      "price": " 634,000 "
+    },
+    {
+      "no": "24053647",
+      "product_name": "하드디스크드라이브",
+      "detail_rule": "6TB",
+      "name": "ST16000NM001G",
+      "price": " 2,800,000 "
+    },
+    {
+      "no": "24179988",
+      "product_name": "하드디스크드라이브",
+      "detail_rule": "6TB",
+      "name": "ST6000NM021A",
+      "price": " 990,000 "
+    },
+    {
+      "no": "23699282",
+      "product_name": "하드디스크드라이브",
+      "detail_rule": "6TB",
+      "name": "ST6000VX001",
+      "price": " 350,000 "
+    },
+    {
+      "no": "23515583",
+      "product_name": "하드디스크드라이브",
+      "detail_rule": "4TB",
+      "name": "\tHUS726T4TALA6L4",
+      "price": " 558,000 "
+    },
+    {
+      "no": "23515582",
+      "product_name": "하드디스크드라이브",
+      "detail_rule": "4TB",
+      "name": "HUS726T4TAL5204",
+      "price": " 650,000 "
+    },
+    {
+      "no": "23410999",
+      "product_name": "하드디스크드라이브",
+      "detail_rule": "4TB",
+      "name": "MG04ACA400",
+      "price": " 449,000 "
+    },
+    {
+      "no": "23129553",
+      "product_name": "하드디스크드라이브",
+      "detail_rule": "4TB",
+      "name": "ST4000VX007",
+      "price": " 476,000 "
+    },
+    {
+      "no": "23410998",
+      "product_name": "하드디스크드라이브",
+      "detail_rule": "2TB",
+      "name": "MG04ACA200",
+      "price": " 320,000 "
+    },
+    {
+      "no": "23493115",
+      "product_name": "하드디스크드라이브",
+      "detail_rule": "2TB",
+      "name": "WD20PURZ",
+      "price": " 234,000 "
+    },
+    {
+      "no": "\t24053648",
+      "product_name": "\t하드디스크드라이브",
+      "detail_rule": "18TB",
+      "name": "\tST18000NM000J",
+      "price": " 2,103,000 "
+    },
+    {
+      "no": "24128427",
+      "product_name": "하드디스크드라이브",
+      "detail_rule": "18TB",
+      "name": "WUH721818ALE6L4",
+      "price": " 3,461,000 "
+    },
+    {
+      "no": "24384054",
+      "product_name": "하드디스크드라이브",
+      "detail_rule": "16TB",
+      "name": "ST16000NM000J",
+      "price": " 1,542,750 "
+    },
+    {
+      "no": "23809900",
+      "product_name": "하드디스크드라이브",
+      "detail_rule": "14TB",
+      "name": "\tS2K-H14RSS",
+      "price": " 7,823,000 "
+    },
+    {
+      "no": "\t24053646",
+      "product_name": "\t하드디스크드라이브",
+      "detail_rule": "14TB",
+      "name": "\tST14000NM001G",
+      "price": " 1,328,000 "
+    },
+    {
+      "no": "\t24128445",
+      "product_name": "하드디스크드라이브",
+      "detail_rule": "14TB",
+      "name": "WUH721414ALE6L4",
+      "price": " 1,300,750 "
+    },
+    {
+      "no": "23608528",
+      "product_name": "하드디스크드라이브",
+      "detail_rule": "12TB",
+      "name": "HUH721212ALE600",
+      "price": " 1,299,000 "
+    },
+    {
+      "no": "\t24053641",
+      "product_name": "\t하드디스크드라이브",
+      "detail_rule": "12TB",
+      "name": "\tST12000NM001G",
+      "price": " 1,134,000 "
+    },
+    {
+      "no": "23885523",
+      "product_name": "하드디스크드라이브",
+      "detail_rule": "12TB",
+      "name": "ST12000VE008",
+      "price": " 1,011,000 "
+    },
+    {
+      "no": "23809899",
+      "product_name": "하드디스크드라이브",
+      "detail_rule": "10TB",
+      "name": "\tR2H-H10RSS",
+      "price": " 5,582,000 "
+    },
+    {
+      "no": "23969355",
+      "product_name": "오디오앰프",
+      "detail_rule": "50W",
+      "name": "SGT-7300",
+      "price": " 1,215,000 "
+    },
+    {
+      "no": "23966676",
+      "product_name": "호온스피커",
+      "detail_rule": "50W",
+      "name": "VHS-50S",
+      "price": " 1,650,000 "
+    },
+    {
+      "no": "24306626",
+      "product_name": "PA용스피커",
+      "detail_rule": "10W",
+      "name": "VCS-10S",
+      "price": " 1,080,000 "
+    },
+    {
+      "no": "24310615",
+      "product_name": "호온스피커",
+      "detail_rule": "10W",
+      "name": "VHS-10S",
+      "price": " 1,360,000 "
+    },
+    {
+      "no": "22653451",
+      "product_name": "누전차단기",
+      "detail_rule": "20A, 자동복구형",
+      "name": "EZ-30",
+      "price": " 288,000 "
+    },
+    {
+      "no": "22816460",
+      "product_name": "서지흡수기",
+      "detail_rule": "전원:40kA/Phase, 통신:40kA/mode,전원용/LAN",
+      "name": "SGC-220PL",
+      "price": " 289,000 "
+    },
+    {
+      "no": "22813724",
+      "product_name": "서지흡수기",
+      "detail_rule": "20ka/mode, 통신용, LAN",
+      "name": "DX-RJ45",
+      "price": " 121,000 "
+    },
+    {
+      "no": "22824443",
+      "product_name": "서지흡수기",
+      "detail_rule": "네트워크용, RJ-45, POE",
+      "name": "DX-RJ45POE",
+      "price": " 161,500 "
+    },
+    {
+      "no": "22697780",
+      "product_name": "서지흡수기",
+      "detail_rule": "통신용, 100kA",
+      "name": "SJ300-E",
+      "price": " 190,000 "
+    },
+    {
+      "no": "22939058",
+      "product_name": "서지흡수기",
+      "detail_rule": "전원용, 160kA",
+      "name": "SJ400-P4",
+      "price": " 240,000 "
+    },
+    {
+      "no": "21925061",
+      "product_name": "서지흡수기",
+      "detail_rule": "전원/이더넷일체형",
+      "name": "SJ400-PE",
+      "price": " 275,000 "
+    },
+    {
+      "no": "21922127",
+      "product_name": "서지흡수기",
+      "detail_rule": "단상, 220V, 40kA, 전원용",
+      "name": "SJ-2204PRE",
+      "price": " 263,000 "
+    },
+    {
+      "no": "22697779",
+      "product_name": "서지흡수기",
+      "detail_rule": "전원용, 60kA",
+      "name": "SJ400-P2",
+      "price": " 148,000 "
+    },
+    {
+      "no": "23835719",
+      "product_name": "서지흡수기",
+      "detail_rule": "신호용, 20kA",
+      "name": "SJ300-EG",
+      "price": " 202,000 "
+    },
+    {
+      "no": "23544438",
+      "product_name": "서지흡수기",
+      "detail_rule": "통신용, 20kA",
+      "name": "SJ300-PoE",
+      "price": " 236,000 "
+    },
+    {
+      "no": "23220326",
+      "product_name": "서지흡수기",
+      "detail_rule": "전원/통신용, 20kA",
+      "name": "SJ400-PEG",
+      "price": " 294,000 "
+    },
+    {
+      "no": "23827788",
+      "product_name": "서지흡수기",
+      "detail_rule": "카운터",
+      "name": "SJ-LSC01",
+      "price": " 246,000 "
+    },
+    {
+      "no": "23003524",
+      "product_name": "분전함",
+      "detail_rule": "스텐인리스, 450x450x500mm",
+      "name": "YKE-500",
+      "price": " 920,000 "
+    },
+    {
+      "no": "22217911",
+      "product_name": "풀박스",
+      "detail_rule": "200x200x100 mm",
+      "name": "S-1",
+      "price": " 208,000 "
+    },
+    {
+      "no": "22523684",
+      "product_name": "브래킷",
+      "detail_rule": "함체받침대, 50Kg이상, 400x490mm",
+      "name": "Localpanel bracket",
+      "price": " 269,000 "
+    },
+    {
+      "no": "24156895",
+      "product_name": "인터콤장비",
+      "detail_rule": "IP기반 인터콤시스템, 5W, DC 12V",
+      "name": "ECS-05P",
+      "price": " 1,300,000 "
+    },
+    {
+      "no": "23733851",
+      "product_name": "인터콤장비",
+      "detail_rule": "IP기반 인터콤시스템, 50W, DC 12V",
+      "name": "ECS-50S",
+      "price": " 1,467,000 "
+    },
+    {
+      "no": "24154840",
+      "product_name": "인터콤장비",
+      "detail_rule": "IP기반 인터콤시스템, 30W, LED DC 12V",
+      "name": "ECS-30L",
+      "price": " 1,499,000 "
+    },
+    {
+      "no": "23733850",
+      "product_name": "인터콤장비",
+      "detail_rule": "IP기반 인터콤시스템, 30W, DC 12V",
+      "name": "ECS-30S",
+      "price": " 1,390,000 "
+    },
+    {
+      "no": "23719545",
+      "product_name": "인터콤장비",
+      "detail_rule": "IP기반 인터콤시스템, S/W 포함",
+      "name": "IPMS-X01",
+      "price": " 20,094,000 "
+    },
+    {
+      "no": "23452765",
+      "product_name": "벨",
+      "detail_rule": "IP 비상벨 무선경보장치",
+      "name": "IPEB-VRB01",
+      "price": " 949,000 "
+    },
+    {
+      "no": "23378123",
+      "product_name": "벨",
+      "detail_rule": "방수형 비상벨 BOX, SUS",
+      "name": "IPEB-B01",
+      "price": " 493,000 "
+    },
+    {
+      "no": "22520101",
+      "product_name": "경광등",
+      "detail_rule": "크세논램프 스트로브형, Ø125mm",
+      "name": "S125S",
+      "price": " 174,000 "
+    },
+    {
+      "no": "22949238",
+      "product_name": "경광등",
+      "detail_rule": "크세논램프 스트로브형, Ø100mm",
+      "name": "S100S",
+      "price": " 153,000 "
+    },
+    {
+      "no": "22931944",
+      "product_name": "광분배함",
+      "detail_rule": "Mini, 4port",
+      "name": "FDF-MINI-XX-4P",
+      "price": " 66,000 "
+    },
+    {
+      "no": "23334703",
+      "product_name": "광분배함",
+      "detail_rule": "Mini, 8port",
+      "name": "FDF-MINI-xx-08P",
+      "price": " 152,000 "
+    },
+    {
+      "no": "23034132",
+      "product_name": "광분배함",
+      "detail_rule": "Rack, 8port",
+      "name": "FDF-RACK-XX-8P",
+      "price": " 151,000 "
+    },
+    {
+      "no": "22931943",
+      "product_name": "광분배함",
+      "detail_rule": "Rack, 24port",
+      "name": "FDF-RACK-XX-24P",
+      "price": " 271,000 "
+    },
+    {
+      "no": "22815244",
+      "product_name": "광점퍼코드",
+      "detail_rule": "3m",
+      "name": "SM-3M-SCLC-2C",
+      "price": " 18,000 "
+    },
+    {
+      "no": "23352328",
+      "product_name": "네트워크스위치",
+      "detail_rule": "1000BaseT 24 Port 1G SFP (Combo) 4 Port",
+      "name": "C3000-24T",
+      "price": " 2,200,000 "
+    },
+    {
+      "no": "23419966",
+      "product_name": "네트워크스위치",
+      "detail_rule": "1000BaseT 48Port 1G SFP (Combo) 4 Port",
+      "name": "C3000-48T",
+      "price": " 3,300,000 "
+    },
+    {
+      "no": "23826068",
+      "product_name": "네트워크스위치",
+      "detail_rule": "1000Base-T 24 ports 1G/10G SFP+ 4 ports",
+      "name": "C3100-24T",
+      "price": " 1,793,000 "
+    },
+    {
+      "no": "23826071",
+      "product_name": "네트워크스위치",
+      "detail_rule": "1000Base-T 48 ports 1G/10G SFP+ 6 ports",
+      "name": "C3100-48T",
+      "price": " 2,398,000 "
+    },
+    {
+      "no": "23826069",
+      "product_name": "네트워크스위치",
+      "detail_rule": "1000Base-T 24 PoEports 1G/10G SFP+ 4ports",
+      "name": "C3100-24P",
+      "price": " 2,398,000 "
+    },
+    {
+      "no": "23826072",
+      "product_name": "네트워크스위치",
+      "detail_rule": "1000Base-T 48 PoEports 1G/10G SFP+ 4ports",
+      "name": "C3100-48P",
+      "price": " 3,872,000 "
+    },
+    {
+      "no": "23224767",
+      "product_name": "네트워크스위치",
+      "detail_rule": "4-port RJ45, 2-port 2.5Gbps/1Gbps SFP",
+      "name": "NHM-2204",
+      "price": " 880,000 "
+    },
+    {
+      "no": "23144691",
+      "product_name": "네트워크스위치",
+      "detail_rule": "8-port RJ45, 2-slot 2.5Gbps/1Gbps SFP",
+      "name": "NHM-2208",
+      "price": " 940,000 "
+    },
+    {
+      "no": "23582013",
+      "product_name": "네트워크스위치",
+      "detail_rule": "8-ports PoE RJ45, 2-slots 1Gbps/2.5Gbps SFP, ",
+      "name": "NHM-2208P",
+      "price": " 1,320,000 "
+    },
+    {
+      "no": "23582015",
+      "product_name": "네트워크스위치",
+      "detail_rule": "8-ports RJ45, 2-slots 1Gbps/2.5Gbps SFP, 2-slos 1Gbps SFP",
+      "name": "NHM-2408",
+      "price": " 1,160,000 "
+    },
+    {
+      "no": "23582014",
+      "product_name": "네트워크스위치",
+      "detail_rule": "24-ports RJ45, 2-slots 1Gbps/2.5Gbps SFP",
+      "name": "NHM-2126",
+      "price": " 1,430,000 "
+    },
+    {
+      "no": "23520179",
+      "product_name": "네트워크스위치",
+      "detail_rule": "24-slots 1Gbps SFP, 4-slots 10Gbps SFP+",
+      "name": "NHM-2129F",
+      "price": " 3,960,000 "
+    },
+    {
+      "no": "23520180",
+      "product_name": "네트워크스위치",
+      "detail_rule": "24-port RJ45, 4-slots 1Gbps SFP",
+      "name": "NSH-2128",
+      "price": " 880,000 "
+    },
+    {
+      "no": "23520181",
+      "product_name": "네트워크스위치",
+      "detail_rule": "24-slots 1Gbps SFP, 2-slots 2.5Gbps/1Gbps SFP",
+      "name": "NSH-2127F",
+      "price": " 1,540,000 "
+    },
+    {
+      "no": "23641018",
+      "product_name": "네트워크스위치",
+      "detail_rule": "8-ports PoE, Long Range PoE Feature",
+      "name": "NSH-2108LP",
+      "price": " 462,000 "
+    },
+    {
+      "no": "23515613",
+      "product_name": "네트워크스위치",
+      "detail_rule": "24-port PoE RJ45, 4-slots 1Gbps SFP",
+      "name": "NSH-2128P",
+      "price": " 1,320,000 "
+    },
+    {
+      "no": "23585128",
+      "product_name": "네트워크스위치",
+      "detail_rule": "1Gbps, SMF, 20km, 1310nm, SFP, LC",
+      "name": "NSFP-1LR",
+      "price": " 80,000 "
+    },
+    {
+      "no": "23585129",
+      "product_name": "네트워크스위치",
+      "detail_rule": "2.5Gbps, SMF, 20Km, SFP, LC",
+      "name": "NSFP-2LR",
+      "price": " 130,000 "
+    },
+    {
+      "no": "23585130",
+      "product_name": "네트워크스위치",
+      "detail_rule": "10Gbps, SMF, 10Km, SFP, LC",
+      "name": "NSFPP-LR",
+      "price": " 200,000 "
+    },
+    {
+      "no": "24003038",
+      "product_name": "네트워크스위치",
+      "detail_rule": "2-slots 1Gbps/2.5Gbps SFP, 8-ports PoE RJ45, 파워내장",
+      "name": "NHM-2208PI",
+      "price": " 1,408,000 "
+    },
+    {
+      "no": "24003039",
+      "product_name": "네트워크스위치",
+      "detail_rule": "2-slots 1Gbps/2.5Gbps SFP, 2-slots 1Gbps SFP, 8-ports PoE RJ45, 파워내장",
+      "name": "NHM-2408PI",
+      "price": " 1,639,000 "
+    },
+    {
+      "no": "24074254",
+      "product_name": "네트워크스위치",
+      "detail_rule": "28-slots 1Gbps SFP, 8-ports 1Gbps, 1port 1000Base-T ",
+      "name": "NSH-2128CF",
+      "price": " 1,540,000 "
+    },
+    {
+      "no": "24074256",
+      "product_name": "네트워크스위치",
+      "detail_rule": "24-ports, 4-slots 1000Base-X or 10GBase-X SFP+ L3 Switch",
+      "name": "NSH-3128",
+      "price": " 2,530,000 "
+    },
+    {
+      "no": "24074255",
+      "product_name": "네트워크스위치",
+      "detail_rule": "24-slots 1000Base-X SFP, 4-slots 10GBase-X SFP+, 1-port L3 Switch",
+      "name": "NSH-3128F",
+      "price": " 4,290,000 "
+    },
+    {
+      "no": "23481586",
+      "product_name": "전원공급장치",
+      "detail_rule": "240W, DC 52V",
+      "name": "AD1240-48S",
+      "price": " 325,000 "
+    },
+    {
+      "no": "22787207",
+      "product_name": "전원공급장치",
+      "detail_rule": "45W, DC 24V",
+      "name": "AD1048-24FS",
+      "price": " 175,000 "
+    },
+    {
+      "no": "22550160",
+      "product_name": "콘솔익스텐더",
+      "name": "CL-5708N",
+      "price": " 3,495,000 "
+    },
+    {
+      "no": "22057493",
+      "product_name": "콘솔익스텐더",
+      "name": "CS1308",
+      "price": " 1,000,000 "
+    },
+    {
+      "no": "23177176",
+      "product_name": "콘솔익스텐더",
+      "name": "CS1316",
+      "price": " 1,750,000 "
+    },
+    {
+      "no": "24140976",
+      "product_name": "액정모니터",
+      "detail_rule": "22\", Black, 54.6cm",
+      "name": "22MN430M",
+      "price": " 290,000 "
+    },
+    {
+      "no": "24118636",
+      "product_name": "액정모니터",
+      "detail_rule": "24\", Black, 60.4cm",
+      "name": "24EN430H",
+      "price": " 312,000 "
+    },
+    {
+      "no": "24087458",
+      "product_name": "액정모니터",
+      "detail_rule": "27\", 68.6cm",
+      "name": "27EN430H",
+      "price": " 399,000 "
+    },
+    {
+      "no": "24145731",
+      "product_name": "액정모니터",
+      "detail_rule": "32\", 80.1cm",
+      "name": "32GN500",
+      "price": " 834,700 "
+    },
+    {
+      "no": "24149635",
+      "product_name": "액정모니터",
+      "detail_rule": "38\", Corved, 95.2cm",
+      "name": "38GN950",
+      "price": " 4,618,550 "
+    },
+    {
+      "no": "24443760",
+      "product_name": "액정모니터",
+      "name": "LS43AM702UKXKR",
+      "price": " 2,250,000 "
+    },
+    {
+      "no": "24214723",
+      "product_name": "액정모니터",
+      "name": "43SP520M",
+      "price": " 1,750,000 "
+    },
+    {
+      "no": "24174676",
+      "product_name": "텔레비전거치대",
+      "detail_rule": "700×720×1250~1750mm, 스탠드형",
+      "name": "EZ-MTC6040C",
+      "price": " 500,000 "
+    },
+    {
+      "no": "23911487",
+      "product_name": "텔레비전거치대",
+      "detail_rule": "265×270×25mm, 벽걸이형",
+      "name": "BLW-20M",
+      "price": " 87,500 "
+    },
+    {
+      "no": "23231541",
+      "product_name": "전원공급장치",
+      "detail_rule": "DC12V, 16.6A",
+      "name": "BK 200XG-12 KC",
+      "price": " 246,900 "
+    },
+    {
+      "no": "22482421",
+      "product_name": "전원공급장치",
+      "detail_rule": "8CH, AC220V, 2U",
+      "name": "CPC-2008",
+      "price": " 474,000 "
+    },
+    {
+      "no": "22764771",
+      "product_name": "전원공급장치",
+      "detail_rule": "방송장치전원공급용",
+      "name": "Neguard-GPRO",
+      "price": " 1,159,000 "
+    },
+    {
+      "no": "22955869",
+      "product_name": "전원공급장치",
+      "detail_rule": "6CH",
+      "name": "NetG-6G",
+      "price": " 1,650,000 "
+    },
+    {
+      "no": "22705556",
+      "product_name": "전원공급장치",
+      "detail_rule": "2CH",
+      "name": "KI-NG02",
+      "price": " 748,000 "
+    },
+    {
+      "no": "22955868",
+      "product_name": "전원공급장치",
+      "detail_rule": "6CH",
+      "name": "NetG-6D",
+      "price": " 1,500,000 "
+    },
+    {
+      "no": "23198190",
+      "product_name": "전원공급장치",
+      "detail_rule": "4CH",
+      "name": "NetG-4ch",
+      "price": " 1,046,000 "
+    },
+    {
+      "no": "23025176",
+      "product_name": "랙캐비닛용패널",
+      "detail_rule": "1U, BLANK PANEL",
+      "name": "PNBP-1U",
+      "price": " 12,500 "
+    },
+    {
+      "no": "23025177",
+      "product_name": "랙캐비닛용패널",
+      "detail_rule": "2U, BLANK PANEL",
+      "name": "PNBP-2U",
+      "price": " 25,000 "
+    },
+    {
+      "no": "23588480",
+      "product_name": "네트워크시스템장비용랙",
+      "detail_rule": "600×2200×750mm",
+      "name": "SGDR-750-1",
+      "price": " 1,074,000 "
+    },
+    {
+      "no": "23588479",
+      "product_name": "네트워크시스템장비용랙",
+      "detail_rule": "600×2000×750mm",
+      "name": "SGDR-750-2",
+      "price": " 935,000 "
+    },
+    {
+      "no": "23588478",
+      "product_name": "네트워크시스템장비용랙",
+      "detail_rule": "600×1800×750mm",
+      "name": "SGDR-750-3",
+      "price": " 880,000 "
+    },
+    {
+      "no": "23588477",
+      "product_name": "네트워크시스템장비용랙",
+      "detail_rule": "600×1600×750mm",
+      "name": "SGDR-750-4",
+      "price": " 825,000 "
+    },
+    {
+      "no": "23588476",
+      "product_name": "네트워크시스템장비용랙",
+      "detail_rule": "600×1200×750mm",
+      "name": "SGDR-750-6",
+      "price": " 701,250 "
+    },
+    {
+      "no": "23698888",
+      "product_name": "네트워크시스템장비용랙",
+      "detail_rule": "600×1000×750mm",
+      "name": "SGDR-750-7",
+      "price": " 673,750 "
+    },
+    {
+      "no": "24192153",
+      "product_name": "네트워크시스템장비용랙",
+      "detail_rule": "600×2200×1090mm",
+      "name": "SGSV-900(1)",
+      "price": " 1,815,000 "
+    },
+    {
+      "no": "24192152",
+      "product_name": "네트워크시스템장비용랙",
+      "detail_rule": "600×2000×1090mm",
+      "name": "SGSV-900(2)",
+      "price": " 1,760,000 "
+    },
+    {
+      "no": "24192151",
+      "product_name": "네트워크시스템장비용랙",
+      "detail_rule": "600×1800×1090mm",
+      "name": "SGSV-900(3)",
+      "price": " 1,705,000 "
+    },
+    {
+      "no": "23981492",
+      "product_name": "네트워크시스템장비용랙",
+      "detail_rule": "600×750×600mm",
+      "name": "SGMH-750",
+      "price": " 375,000 "
+    },
+    {
+      "no": "24192155",
+      "product_name": "네트워크시스템장비용랙",
+      "detail_rule": "550×500×550mm",
+      "name": "SGMH-500(2)",
+      "price": " 275,000 "
+    }
+  ],
+  "MAS_main": [
+    {
+      "no": "24339500",
+      "name": "VIXAI-MAS-C001",
+      "규격": "방범감시시스템",
+      "기자재": "감시카메라",
+      "price": " 995,500 "
+    },
+    {
+      "no": "24339501",
+      "name": "VIXAI-MAS-C002",
+      "규격": "방범감시시스템",
+      "기자재": "감시카메라",
+      "price": " 1,023,000 "
+    },
+    {
+      "no": "24339502",
+      "name": "VIXAI-MAS-C003",
+      "규격": "방범감시시스템",
+      "기자재": "감시카메라",
+      "price": " 3,333,000 "
+    },
+    {
+      "no": "24339503",
+      "name": "VIXAI-MAS-C004",
+      "규격": "방범감시시스템",
+      "기자재": "감시카메라",
+      "price": " 3,278,000 "
+    },
+    {
+      "no": "24348522",
+      "name": "VIXAI-MAS-S001",
+      "규격": "중앙감시시스템",
+      "기자재": "녹화장치",
+      "price": " 6,737,500 "
+    },
+    {
+      "no": "24348523",
+      "name": "VIXAI-MAS-S002",
+      "규격": "중앙감시시스템",
+      "기자재": "녹화장치",
+      "price": " 7,287,500 "
+    }
+  ],
+  "MAS_sub": [
+    {
+      "no": "22066119",
+      "product_name": "카메라받침대",
+      "detail_rule": "카메라브래킷, 벽부형(steel)",
+      "price": " 107,500 "
+    },
+    {
+      "no": "22066120",
+      "product_name": "카메라받침대",
+      "detail_rule": "카메라브래킷, 천정형(steel)",
+      "price": " 135,920 "
+    },
+    {
+      "no": "22066121",
+      "product_name": "카메라받침대",
+      "detail_rule": "카메라브래킷, 스피드돔 벽부형(알루미늄 다이케스팅)",
+      "price": " 141,310 "
+    },
+    {
+      "no": "22066122",
+      "product_name": "카메라받침대",
+      "detail_rule": "카메라브래킷, 스피드돔 천정형(알루미늄 다이케스팅)",
+      "price": " 84,960 "
+    },
+    {
+      "no": "22066123",
+      "product_name": "카메라받침대",
+      "detail_rule": "카메라브래킷, 펜틸트벽부형(steel)",
+      "price": " 123,670 "
+    },
+    {
+      "no": "22065234",
+      "product_name": "스피커",
+      "detail_rule": "스피커, 스피커브래킷(스틸)",
+      "price": " 35,770 "
+    },
+    {
+      "no": "22067177",
+      "product_name": "전기설비브래킷",
+      "detail_rule": "브래킷, 라이트용, SUS304",
+      "price": " 61,440 "
+    },
+    {
+      "no": "22060847",
+      "product_name": "네트워크시스템장비용랙",
+      "detail_rule": "네트워크시스템장비용랙, 600×1200×750mm",
+      "price": " 717,550 "
+    },
+    {
+      "no": "22065235",
+      "product_name": "네트워크시스템장비용랙",
+      "detail_rule": "네트워크시스템장비용랙, 600×1800×750mm",
+      "price": " 789,290 "
+    },
+    {
+      "no": "22060848",
+      "product_name": "네트워크시스템장비용랙",
+      "detail_rule": "네트워크시스템장비용랙, 600×2000×750mm",
+      "price": " 891,700 "
+    },
+    {
+      "no": "22067178",
+      "product_name": "접지장치또는조립품",
+      "detail_rule": "접지봉, 14mm×1m, 리드단자부",
+      "price": " 36,350 "
+    },
+    {
+      "no": "10034851",
+      "product_name": "접지장치또는조립품",
+      "detail_rule": "접지판, 300×300×1.5mm",
+      "price": " 73,500 "
+    },
+    {
+      "no": "22065473",
+      "product_name": "안내판",
+      "detail_rule": "안내판, CCTV설치안내(대)",
+      "price": " 215,890 "
+    },
+    {
+      "no": "22065474",
+      "product_name": "안내판",
+      "detail_rule": "안내판, CCTV설치안내(중)",
+      "price": " 158,460 "
+    },
+    {
+      "no": "22067181",
+      "product_name": "서지방지장치",
+      "detail_rule": "서지흡수기, 영상용",
+      "price": " 164,730 "
+    },
+    {
+      "no": "22067182",
+      "product_name": "서지방지장치",
+      "detail_rule": "서지흡수기, 전원용",
+      "price": " 274,300 "
+    },
+    {
+      "no": "22067183",
+      "product_name": "서지방지장치",
+      "detail_rule": "서지흡수기, 신호용",
+      "price": " 243,620 "
+    },
+    {
+      "no": "22067184",
+      "product_name": "서지방지장치",
+      "detail_rule": "서지흡수기, 영상+전원+신호",
+      "price": " 530,370 "
+    },
+    {
+      "no": "22065237",
+      "product_name": "광분배함",
+      "detail_rule": "광분배함, 4C",
+      "price": " 72,520 "
+    },
+    {
+      "no": "22067185",
+      "product_name": "광섬유케이블어셈블리",
+      "detail_rule": "광점퍼코드, SM-3 ST",
+      "price": " 8,720 "
+    },
+    {
+      "no": "22067186",
+      "product_name": "스트로보또는경고등",
+      "detail_rule": "경광등, 220V",
+      "price": " 173,550 "
+    },
+    {
+      "no": "22066767",
+      "product_name": "경보장치",
+      "detail_rule": "벨, 통화기능",
+      "price": " 306,640 "
+    },
+    {
+      "no": "22067189",
+      "product_name": "전력케이블",
+      "detail_rule": "난연전력케이블, F-CV 3C×1.5㎟",
+      "price": " 4,310 "
+    },
+    {
+      "no": "22067190",
+      "product_name": "전력케이블",
+      "detail_rule": "난연전력케이블, F-CV 3C×2.5㎟",
+      "price": " 4,600 "
+    },
+    {
+      "no": "22067191",
+      "product_name": "전력케이블",
+      "detail_rule": "난연전력케이블, F-CV 3C×6㎟",
+      "price": " 5,580 "
+    },
+    {
+      "no": "22067192",
+      "product_name": "제어케이블",
+      "detail_rule": "제어케이블, F-CVV 2C×1.5㎟",
+      "price": " 2,640 "
+    },
+    {
+      "no": "22067176",
+      "product_name": "절연전선및피복선",
+      "detail_rule": "450/750V 유연성단심비닐절연전선, VCTF 3C×1.5㎟",
+      "price": " 2,150 "
+    },
+    {
+      "no": "20683697",
+      "product_name": "절연전선및피복선",
+      "detail_rule": "난연접지용비닐절연전선, F-GV, 6㎟",
+      "price": " 2,050 "
+    },
+    {
+      "no": "20683699",
+      "product_name": "절연전선및피복선",
+      "detail_rule": "난연접지용비닐절연전선, F-GV, 16㎟",
+      "price": " 3,430 "
+    },
+    {
+      "no": "10040386",
+      "product_name": "동축케이블",
+      "detail_rule": "고주파동축케이블, ECX cable, 5C-2V",
+      "price": " 3,130 "
+    },
+    {
+      "no": "10040387",
+      "product_name": "동축케이블",
+      "detail_rule": "고주파동축케이블, ECX cable, 7C-2V",
+      "price": " 4,110 "
+    },
+    {
+      "no": "22067194",
+      "product_name": "네트워크케이블",
+      "detail_rule": "UTP케이블, CAT.5E/CM 4P",
+      "price": " 2,740 "
+    },
+    {
+      "no": "22067195",
+      "product_name": "네트워크케이블",
+      "detail_rule": "UTP케이블, CAT.5E/CM 25P",
+      "price": " 6,460 "
+    },
+    {
+      "no": "22067196",
+      "product_name": "옥외광섬유케이블",
+      "detail_rule": "LAP외피광케이블, SM 4C",
+      "price": " 5,580 "
+    },
+    {
+      "no": "22067197",
+      "product_name": "옥외광섬유케이블",
+      "detail_rule": "LAP외피광케이블, SM 8C",
+      "price": " 7,350 "
+    },
+    {
+      "no": "22066417",
+      "product_name": "정보통신공사",
+      "detail_rule": "정보통신공사, 광케이블보통12코어이하접속",
+      "price": " 27,930 "
+    },
+    {
+      "no": "22066418",
+      "product_name": "정보통신공사",
+      "detail_rule": "정보통신공사, 광케이블시험시험및측정",
+      "price": " 54,290 "
+    },
+    {
+      "no": "22067200",
+      "product_name": "전선관",
+      "detail_rule": "폴리에틸렌전선관, Φ30mm",
+      "price": " 3,720 "
+    },
+    {
+      "no": "22067201",
+      "product_name": "전선관",
+      "detail_rule": "폴리에틸렌전선관, Φ50mm",
+      "price": " 3,920 "
+    },
+    {
+      "no": "20174480",
+      "product_name": "전선관",
+      "detail_rule": "1종금속제가요전선관, 고장력후렉시블전선관, 28mm, 비방수",
+      "price": " 8,130 "
+    },
+    {
+      "no": "20174481",
+      "product_name": "전선관",
+      "detail_rule": "1종금속제가요전선관, 고장력후렉시블전선관, 36mm, 비방수",
+      "price": " 10,970 "
+    },
+    {
+      "no": "22067204",
+      "product_name": "전기함",
+      "detail_rule": "풀박스, 200×200×200mm",
+      "price": " 66,730 "
+    },
+    {
+      "no": "22067205",
+      "product_name": "전기함",
+      "detail_rule": "풀박스, 400×400×400mm",
+      "price": " 79,180 "
+    },
+    {
+      "no": "22066408",
+      "product_name": "토공사",
+      "detail_rule": "토공사, 인력터파기보통토사(0~1m)",
+      "price": " 12,150 "
+    },
+    {
+      "no": "22066409",
+      "product_name": "토공사",
+      "detail_rule": "토공사, 되메우기보통토사(0~1m)",
+      "price": " 5,970 "
+    },
+    {
+      "no": "22066410",
+      "product_name": "토공사",
+      "detail_rule": "토공사, 잔토처리깊이(0~1m)",
+      "price": " 12,150 "
+    },
+    {
+      "no": "22066415",
+      "product_name": "철근콘크리트공사",
+      "detail_rule": "철근콘크리트공사, 합판거푸집(깊이4회)",
+      "price": " 16,750 "
+    },
+    {
+      "no": "22066416",
+      "product_name": "철근콘크리트공사",
+      "detail_rule": "철근콘크리트공사, 콘크리트타설(인력비빔/B배합/철근구조)",
+      "price": " 238,230 "
+    },
+    {
+      "no": "22066413",
+      "product_name": "포장공사",
+      "detail_rule": "포장공사, 아스팔트커팅(일반/인력및소규모장비)",
+      "price": " 81,530 "
+    },
+    {
+      "no": "22066414",
+      "product_name": "포장공사",
+      "detail_rule": "포장공사, 아스팔트포장(일반/인력및소규모장비)",
+      "price": " 3,330 "
+    },
+    {
+      "no": "22066411",
+      "product_name": "토공사",
+      "detail_rule": "토공사, 기계터파기(기계8+인력2)",
+      "price": " 3,520 "
+    },
+    {
+      "no": "22066412",
+      "product_name": "토공사",
+      "detail_rule": "토공사, 기계되메우기(기계8+인력2/흙다지기)",
+      "price": " 5,580 "
+    },
+    {
+      "no": "22066419",
+      "product_name": "정보통신공사",
+      "detail_rule": "정보통신공사, 선로시험",
+      "price": " 34,490 "
+    },
+    {
+      "no": "22066420",
+      "product_name": "정보통신공사",
+      "detail_rule": "정보통신공사, 송수신제어신호및영상레벨조정",
+      "price": " 124,850 "
+    },
+    {
+      "no": "22066421",
+      "product_name": "정보통신공사",
+      "detail_rule": "정보통신공사, 종합시험",
+      "price": " 109,760 "
+    }
+  ],
+  "sw_main": [
+    {
+      "no": "24338860",
+      "name": "VIXAI-120G v4.0(VIXAI-120B)",
+      "product_rule": "객체(사람/차량) 검출/추적/분류",
+      "price": " 800,000 "
+    },
+    {
+      "no": "24338861",
+      "name": "VIXAI-120G v4.0(VIXAI-220R)",
+      "product_rule": "객체(사람/차량) 자동추적/유고감지",
+      "price": " 2,500,000 "
+    },
+    {
+      "no": "24338862",
+      "name": "VIXAI-120G v4.0(VIXAI-220B)",
+      "product_rule": "지능형 영상분석/자동추적",
+      "price": " 1,000,000 "
+    }
+  ],
+  "sw_sub": [
+    {
+      "no": "24338863",
+      "name": "IPX-110B v4.0(VIXAI-Client)",
+      "product_rule": "모니터링",
+      "price": " 450,000 "
+    },
+    {
+      "no": "24344049",
+      "name": "IPX-110B v4.0(VIXAI-Mon)",
+      "product_rule": "녹화/검색/반출",
+      "price": " 2,500,000 "
+    },
+    {
+      "no": "24344048",
+      "name": "IPX-110B v4.0(VIXAI-Streamer)",
+      "product_rule": "전송/저장/검색",
+      "price": " 25,000,000 "
+    }
+  ]
+}
